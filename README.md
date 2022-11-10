@@ -1,5 +1,8 @@
 # LNR-Resolver
 
+![npm](https://img.shields.io/npm/v/lnrjs)
+![npm bundle size](https://img.shields.io/bundlephobia/min/lnrjs)
+
 A small react library with some useful hooks for dealing with LNR domains  
 
 ## Setup
