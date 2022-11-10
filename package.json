@@ -4,7 +4,7 @@
   "description": "Hooks for resolving LNR names",
   "repository": "git@github.com:oscgu/LNR-Resolver.git",
   "author": "oscgu <oscarguertler@gmail.com>",
-  "license": "MIT",
+  "license": "GPLv2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
