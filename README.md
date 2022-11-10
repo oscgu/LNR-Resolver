@@ -1,4 +1,4 @@
-# LNR-Resolver
+# lnrjs
 
 ![npm](https://img.shields.io/npm/v/lnrjs)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/lnrjs)
