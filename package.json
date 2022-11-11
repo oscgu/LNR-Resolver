@@ -1,8 +1,8 @@
 {
   "name": "lnrjs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Hooks for resolving LNR names",
-  "repository": "git@github.com:oscgu/LNR-Resolver.git",
+  "repository": "git@github.com:oscgu/lnrjs.git",
   "author": "oscgu <oscarguertler@gmail.com>",
   "license": "GPLv2",
   "main": "dist/index.js",

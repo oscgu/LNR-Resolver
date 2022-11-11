@@ -5,7 +5,11 @@
 
 A small react library with some useful hooks for dealing with LNR domains  
 
-## Setup
+## Installation
+
+`yarn add lnrjs`
+
+## Getting started
 
 You can use the hooks as they are, if you dont mind the rate limit of the  
 public provider being used. See below how to change that.  
@@ -13,6 +17,7 @@ public provider being used. See below how to change that.
 `_app.tsx`
 ```typescript
 import type { AppProps } from 'next/app'
+import { LnrConfigProvider, LnrConfig } from "lnrjs";
 
 export default function App({ Component, pageProps }: AppProps) {
     const config: LnrConfig = {
