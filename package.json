@@ -1,6 +1,6 @@
 {
   "name": "lnrjs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Hooks for resolving LNR names",
   "repository": "git@github.com:oscgu/lnrjs.git",
   "author": "oscgu <oscarguertler@gmail.com>",

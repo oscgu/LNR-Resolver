@@ -37,6 +37,8 @@ export default function App({ Component, pageProps }: AppProps) {
 
 
 ```typescript
+import { useLnrGetName, useLnrGetAddress } from "lnrjs;
+
 const { name } = useLnrGetName("0x...");
 const { address } = useLnrGetAddress("name.og");
 ```
