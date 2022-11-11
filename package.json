@@ -1,12 +1,18 @@
 {
   "name": "lnrjs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Hooks for resolving LNR names",
   "repository": "git@github.com:oscgu/lnrjs.git",
   "author": "oscgu <oscarguertler@gmail.com>",
   "license": "GPLv2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "keywords": [
+    "lnr",
+    "ethereum",
+    "ethereum-domains",
+    "blockchain"
+  ],
   "scripts": {
     "format": "prettier --write src/**/*"
   },

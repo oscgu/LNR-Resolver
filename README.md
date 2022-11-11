@@ -2,6 +2,7 @@
 
 ![npm](https://img.shields.io/npm/v/lnrjs)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/lnrjs)
+![npm](https://img.shields.io/npm/dw/lnrjs)
 
 A small react library with some useful hooks for dealing with LNR domains  
 
